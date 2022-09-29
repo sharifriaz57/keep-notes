@@ -1,0 +1,9 @@
+
+/* Header */
+
+.header-left {
+    min-width: 260px;
+}
+.header-search button:hover {
+    background-color: dark-opacity-2;
+}
